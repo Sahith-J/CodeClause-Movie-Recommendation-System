@@ -49,15 +49,10 @@ The `CodeClause-Movie-Recommendation-System.ipynb` notebook serves as a starting
 - [Building Recommendation Systems in Python](https://www.datacamp.com/courses/recommendation-systems-in-python)
 - [Recommender Systems: The Textbook](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)
 
-## License
-The `CodeClause-Movie-Recommendation-System.ipynb` notebook is licensed under the [MIT License](https://opensource.org/licenses/MIT), which allows you to modify, distribute, and use the code for both personal and commercial purposes.
-
-Please refer to the LICENSE file in the repository for more details.
-
 ## Acknowledgments
 The `CodeClause
 
-Movie Recommendation System` is a collaborative project developed by the CodeClause community. Special thanks to all the contributors who have made this project possible.
+Movie Recommendation System` is a collaborative project developed by the CodeClause community as a intern. Special thanks to all the contributors who have made this project possible.
 
 If you have any feedback, suggestions, or bug reports, please feel free to open an issue or submit a pull request on the project's GitHub repository.
 
