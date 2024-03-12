@@ -1,6 +1,6 @@
-# CodeClause-Movie-Recommendation-System
+# Movie-Recommendation-System
 
-The CodeClause Movie Recommendation System is a Jupyter Notebook (`.ipynb`) file that demonstrates the implementation of a movie recommendation system using collaborative filtering. This system suggests movies to users based on their previous ratings and the ratings of similar users.
+The Movie Recommendation System is a Jupyter Notebook (`.ipynb`) file that demonstrates the implementation of a movie recommendation system using collaborative filtering. This system suggests movies to users based on their previous ratings and the ratings of similar users.
 
 ## Overview
 The `CodeClause-Movie-Recommendation-System.ipynb` notebook provides step-by-step instructions and code examples to build and evaluate a movie recommendation system. The notebook covers the following main sections:
